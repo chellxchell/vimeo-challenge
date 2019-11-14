@@ -1,0 +1,14 @@
+/* 
+    VARIOUS UTILITY SCSS CLASSES
+*/
+.margin{
+    &Top{
+        margin-top: 50px;
+    }
+    &Bottom{
+        margin-bottom: 50px;
+    }
+    &Auto{
+        margin: 0 12%;
+    }
+}

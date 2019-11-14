@@ -1,0 +1,21 @@
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+
+    &--1\/2{
+        width: 50%;
+    }
+}
+
+.marginAuto{
+    margin: 0 12%;
+}
